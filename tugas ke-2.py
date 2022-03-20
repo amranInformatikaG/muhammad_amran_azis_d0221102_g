@@ -1,7 +1,7 @@
 #list
 r=["kamu",1,2.1,"roti"]
 #DICTIONARY
-g={"nama":"amran","umur":"18"}
+g={"nama":"amran","umur":18}
 #set
 h={"meja","kursi",1}
 #tuple
